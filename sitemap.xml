@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wheycenter.vn/</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/index</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/cart</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1&amp;sortBy=name_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1&amp;sortBy=name_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1&amp;sortBy=price_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1&amp;sortBy=price_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=1&amp;sortBy=newest</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2&amp;sortBy=name_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2&amp;sortBy=name_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2&amp;sortBy=price_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2&amp;sortBy=price_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=2&amp;sortBy=newest</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3&amp;sortBy=name_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3&amp;sortBy=name_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3&amp;sortBy=price_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3&amp;sortBy=price_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=3&amp;sortBy=newest</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4&amp;sortBy=name_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4&amp;sortBy=name_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4&amp;sortBy=price_asc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4&amp;sortBy=price_desc</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wheycenter.vn/product?categoryId=4&amp;sortBy=newest</loc>
+  <lastmod>2024-09-03T05:36:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
